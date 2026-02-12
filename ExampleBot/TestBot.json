@@ -1,0 +1,10 @@
+{
+  "name": "Example Bot",
+  "version": "1.0",
+  "authors": [ "Selena La" ],
+  "description": "A basic bot to showcase usage of the Robocode API",
+  "homepage": "",
+  "countryCodes": [ "us" ],
+  "platform": "Java",
+  "programmingLang": "Java"
+}
