@@ -1,0 +1,14 @@
+{
+  "name": "Ben",
+  "version": "1.0",
+  "authors": [
+    "Dr. James Rebook"
+  ],
+  "description": "yo.",
+  "homepage": "",
+  "countryCodes": [
+    "us"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
