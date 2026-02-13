@@ -25,6 +25,8 @@ public class Ben_Bot extends Bot {
         fire(1);
     }
 
+
+    
     // We were hit by a bullet -> turn perpendicular to the bullet
 
     @Override
@@ -35,6 +37,6 @@ public class Ben_Bot extends Bot {
         // Turn 90 degrees to the bullet direction based on the bearing
         turnLeft(90 - bearing);
     }
-
+q
 }
 
