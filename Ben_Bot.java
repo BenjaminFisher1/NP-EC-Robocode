@@ -1,10 +1,10 @@
 import dev.robocode.tankroyale.botapi.*;
 import dev.robocode.tankroyale.botapi.events.*;
 
-public class ExampleBot extends Bot {
+public class Ben_Bot extends Bot {
 
     public static void main(String[] args) {
-        new ExampleBot().start();
+        new Ben_Bot().start();
     }
 
     // Called when a new round is started -> initialize and do some movement
